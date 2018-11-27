@@ -1,0 +1,118 @@
+# jemdoc: menu{MENU}{index.html}, notime, anlytics{UA-49454703-1}
+= Lei Deng - Publications
+[https://scholar.google.com.hk/citations?user=Bx2v5H8AAAAJ&hl=en \[Google Scholar\]]
+
+== Journal
+. Delay-Constrained Input-Queued Switch [paper/delay.constrained.switch.JSAC.18.pdf \[PDF\]]\n
+  *Lei Deng*, Wing Shing Wong, Po-Ning Chen, Yunghsiang S. Han, and Hanxu Hou\n
+  IEEE Journal on Selected Areas in Communications (JSAC), to appear, Sep. 2018. \n  
+. Energy-Efficient Timely Transportation of Long-Haul Heavy-Duty Trucks [paper/EETT.TITS.18.pdf \[PDF\]] [paper/EETT.TITS.18.Supplementary.pdf \[Supplementary\]] \n
+ *Lei Deng*, Mohammad H. Hajiesmaili, Minghua Chen, and Haibo Zeng \n
+ IEEE Transactions on Intelligent Transportation Systems (TITS), vol. 19, no. 7, pp. 2099-2113, July 2018.  \n
+. An Optimal Algorithm for Online Non-Convex Learning [paper/optimal.algorithm.online.nonconvex.learning.SIGMETRICS.18.pdf \[PDF\]]\n
+  Lin Yang, *Lei Deng*, Mohammad H. Hajiesmaili, Cheng Tan, and Wing Shing Wong \n
+  Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS), vol. 2, no. 2, June 2018. \n
+. Joint Bidding and Geographical Load Balancing for Datacenters: Is Uncertainty a Blessing or a Curse? [paper/Joint.bidding.ToN.18.pdf \[PDF\]] \n
+  Ying Zhang, *Lei Deng*, Minghua Chen, and Peijian Wang \n
+  IEEE/ACM Transactions on Networking (TON), vol. 26, no. 3, pp. 1049-1062, June 2018. \n
+. Dynamic Spectrum Allocation for Heterogeneous Cognitive Radio Networks with Multiple Channels [paper/Dynamic.Spectrum.Allocation.IEEE.System.Journal.18.pdf \[PDF\]] \n
+  Wenjie Zhang, Yingjun Sun, *Lei Deng*, Yeo Chai Kiat, and Liwei Yang \n
+  IEEE Systems Journal, to appear, Apr. 2018. \n
+. Timely Wireless Flows with General Traffic Patterns: Capacity Region and Scheduling Algorithms [paper/Timely.Wireless.Flow.ToN.17.pdf \[PDF\]] [paper/Timely.Wireless.Flow.ToN.17.Supplementary.pdf \[Supplementary\]] \n
+  *Lei Deng*, Chih-Chun Wang, Minghua Chen, and Shizhen Zhao \n
+  IEEE/ACM Transactions on Networking (TON), vol. 25, no. 6, pp. 3473-3486, Dec. 2017. \n
+. Incentivizing Device-to-Device Load Balancing for Cellular Networks: An Online Auction Design [paper/D2D.Auction.JSAC.17.pdf \[PDF\]] \n
+  Mohammad H. Hajiesmaili, *Lei Deng*, Minghua Chen, and Zongpeng Li \n
+  IEEE Journal on Selected Areas in Communications (JSAC), vol. 35, no. 2, pp. 265-279, Feb. 2017. \n 
+. Robust Energy-efficient Power Loading for MIMO System under Imperfect CSI  [paper/Robust.EE.IJSNet.15.pdf \[PDF\]] \n
+  Yun Rui, *Lei Deng*, Qian Wang, Jing Li, Guoming Qian, Mingqi Li, and Yingguan Wang \n
+  International Journal on Sensor Networks (IJSNet), vol. 18, no. 3/4, pp. 140-147, 2015. \n 
+. Mode Selection and Power Optimization for Energy Efficiency in Uplink Virtual MIMO Systems [paper/ee_vmimo_jsac13.pdf \[PDF\]] \n
+  Yun Rui, Q.T. Zhang, *Lei Deng*, Peng Cheng, and Mingqi Li \n
+  IEEE Journal on Selected Areas in Communications (JSAC), vol. 31, no. 5, pp. 926-936, May 2013. \n 
+. A Unified Energy Efficiency and Spectral Efficiency Tradeoff Metric in Wireless Networks [paper/est_cl13.pdf \[PDF\]] \n
+  *Lei Deng*, Yun Rui, Peng Cheng, Jun Zhang, Q. T. Zhang, and Mingqi Li \n
+  IEEE Communications Letters, vol. 17, no. 1, pp. 55-58, Jan. 2013. \n
+
+== Conference
+. On Stability Condition of Wireless Networked Control Systems under Joint Design of Control Policy and Network Scheduling Policy [paper/Joint.Control.and.Scheduling.CDC.18.pdf \[PDF\]]\n
+  *Lei Deng*, Cheng Tan, and Wing Shing Wong\n
+  IEEE CDC, to appear, Dec. 2018.\n
+. On the Asymptotic Performance of Delay-Constrained Slotted ALOHA [paper/delay.constrained.ALOHA.ICCCN.18.pdf \[PDF\]] {{<font color=red size=+0.5><b>}}(Invited Paper){{</b></font>}}\n
+  *Lei Deng*, Jing Deng, Po-Ning Chen, and Yunghsiang S. Han\n
+  IEEE ICCCN, to appear, July 2018. \n
+. An Optimal Algorithm for Online Non-Convex Learning [paper/optimal.algorithm.online.nonconvex.learning.SIGMETRICS.18.pdf \[PDF\]]\n
+  Lin Yang, *Lei Deng*, Mohammad H. Hajiesmaili, Cheng Tan, and Wing Shing Wong \n
+  ACM SIGMETRICS (Full Paper), June 2018.\n
+. Delay-Constrained Input-Queued Switch [paper/delay.constrained.switch.MobiHoc.poster.18.pdf \[PDF\]] \n 
+  *Lei Deng*, Wing Shing Wong, Po-Ning Chen, and Yunghsiang S. Han\n
+  ACM MobiHoc (Poster Paper), June 2018.\n
+. Optimal Demand-Aware Ride-Sharing Routing [paper/demand.aware.ride.sharing.routing.INFOCOM.18.pdf \[PDF\]]\n
+  Qiulin Lin, *Lei Deng*, Jingzhou Sun, and Minghua Chen\n
+  IEEE INFOCOM, Apr. 2018.\n
+. A Tale of Two Metrics in Network Delay Optimization [paper/two.delay.metrics.INFOCOM.18.pdf \[PDF\]]\n
+  Qingyu Liu, *Lei Deng*, Haibo Zeng, and Minghua Chen\n
+  IEEE INFOCOM, Apr. 2018.\n 
+. On the Min-Max-Delay Problem: NP-completeness, Algorithm, and Integrality Gap [paper/Min.Max.Delay.ITW.17.pdf \[PDF\]] {{<font color=red size=+0.5><b>}}(Invited Paper){{</b></font>}}\n
+  Qingyu Liu, *Lei Deng*, Haibo Zeng, and Minghua Chen \n
+  IEEE ITW, Nov. 2017. \n
+. Joint Bidding and Geographical Load Balancing for Datacenters: Is Uncertainty a Blessing or a Curse? [paper/Joint.Bidding.GLB.INFOCOM.17.pdf \[PDF\]]\n
+  Ying Zhang, *Lei Deng*, Minghua Chen, and Peijian Wang \n
+  IEEE INFOCOM, May 2017.\n
+. Energy-Efficient Timely Transportation of Long-Haul Heavy-Duty Trucks [paper/EETT.eEnergy.16.pdf \[PDF\]] [paper/EETT.eEnergy.16.slides.pdf \[Slides\]] {{<font color=red size=+0.5><b>}}(Best Paper Award Candidate){{</b></font>}} \n
+  *Lei Deng*, Mohammad H. Hajiesmaili, Minghua Chen, and Haibo Zeng\n
+  ACM e-Energy, June 2016. \n
+. Utility Maximization for Uplink MU-MIMO: Combining Spectral-Energy Efficiency and Fairness [paper/NUM.MUMIMO.EuCNC.16.pdf \[PDF\]]\n
+  *Lei Deng*, Wenjie Zhang, Yun Rui, and Chai Kiat Yeo \n
+  EuCNC, June 2016.\n
+. Timely Wireless Flows with Arbitrary Traffic Patterns: Capacity Region and Scheduling Algorithms [paper/Timely.Wireless.Flow.INFOCOM.16.pdf \[PDF\]] [paper/Timely.Wireless.Flow.INFOCOM.16.slides.pdf \[Slides\]] \n
+  *Lei Deng*, Chih-Chun Wang, Minghua Chen, and Shizhen Zhao \n
+  IEEE INFOCOM, Apr. 2016. \n
+. Dynamic Spectrum Allocation for Heterogeneous Cognitive Radio Network [paper/Dynamic.Spectrum.Allocation.WCNC.16.pdf \[PDF\]] \n
+  Wenjie Zhang, *Lei Deng*, and Chai Kiat Yeo \n
+  IEEE WCNC, Apr. 2016. \n
+. Second Chance Works Out Better: Saving More for Data Center Operator in Open Energy Market [paper/Second.Chance.CISS.16.pdf \[PDF\]] {{<font color=red size=+0.5><b>}}(Invited Paper){{</b></font>}} \n
+  Peijian Wang, Ying Zhang, *Lei Deng*, Minghua Chen, and Xue Liu \n
+  CISS, Mar. 2016.\n
+. Device-to-Device Load Balancing for Cellular Networks [paper/D2D.LB.MASS.15.pdf \[PDF\]] [paper/D2D.LB.MASS.15.TR.pdf \[Technical Report\]] [paper/D2D.LB.MASS.15.slides.pptx \[Slides\]]\n
+  *Lei Deng*, Ying Zhang, Minghua Chen, Zongpeng Li, Jack Y. B. Lee, Ying Jun (Angela) Zhang, and Lingyang Song \n
+  IEEE MASS, Oct. 2015. \n
+. Cluster-Based Cooperative Spectrum Sensing Assignment Strategy in Cognitive Radio Networks [paper/Cluster_CSS_vtcfall14.pdf \[PDF\]]\n
+  Wenjie Zhang, Yiqun Yang, Chai Kiat Yeo, and *Lei Deng* \n
+  IEEE VTC'Fall, Sep. 2014. \n
+. Energy-Efficient Multi-Mode Transmission in Uplink Virtual MIMO Systems [paper/ee_vmimo_icc13.pdf \[PDF\]]\n
+  Yun Rui, *Lei Deng*, Peng Cheng, Q. T. Zhang, and Mingqi Li \n
+  IEEE ICC, Jun. 2013. \n
+. Cooperative Transmission with Broadcasting and Communication [paper/cbc_incos12.pdf \[PDF\]] \n
+  Dongdong Wei, *Lei Deng*, Yun Rui, Mingqi Li, and Fang Wang \n
+  IEEE INCoS, Sep. 2012. \n
+. Robust Energy-Efficient Power Loading for MIMO System under Imperfect CSI  [paper/robust_ee_wasa12.pdf \[PDF\]] \n
+  Yun Rui, *Lei Deng*, Mingqi Li, Jing Li, and Xiangbin Yu \n
+  WASA, Aug. 2012.\n
+. Energy Efficiency Optimization in Uplink Virtual MIMO Systems [paper/ee_vmimo_icc12.pdf \[PDF\]]\n
+  Yun Rui, Q.T. Zhang, Mingqi Li, *Lei Deng*, and Peng Cheng \n
+  IEEE ICC, Jun. 2012. \n
+. Resource Allocation for Cognitive Networks with D2D Communication: An Evolutionary Approach [paper/d2d_wcnc12.pdf \[PDF\]] \n
+  Peng Cheng, *Lei Deng*, Hui Yu, Youyun Xu, and Hailong Wang \n
+  IEEE WCNC, Apr. 2012. \n
+. Colorization Using Quaternion Algebra with Automatic Scribble Generation [paper/colorization_mmm12.pdf \[PDF\]] \n
+  Xiaowei Ding, Yi Xu, *Lei Deng*, and Xiaokang Yang \n
+  MMM, Jan. 2012. \n
+
+== Patent 
+.  An Improved AODV Protocol for Vehicular Ad Hoc Networks \n
+   *Lei Deng*, Ben Ding, Peng Cheng, Hui Yu, and Yuyi Li \n
+   People's Republic of China Patent, Publication No. CN102769888B, issued on Mar. 11, 2015. \n
+. Optimal Relay Selection in Infrastructure-to-Vehicle Communications \n
+  *Lei Deng*, Peng Cheng, Hui Yu, Yuyi Li, and Kai Ying \n 
+  People's Republic of China Patent, Publication No. CN102625237B, issued on Oct. 15, 2014.
+
+== Thesis
+. *Lei Deng*, 
+"Delivering Perishable Information and Cargos: Delay-Constrained Communication and Transportation,"
+[paper/thesis.pdf \[PDF\]] [paper/thesis.defense.pptx \[Defense Slides\]]
+
+# == Technical Report & Unpublished Manuscript
+#== Unpublished Manuscript
+#. *Lei Deng*, Wenjie Zhang and Yun Rui,
+#"Utility Maximization for Uplink MU-MIMO: Combining Spectral-Energy Efficiency and Fairness,"  arXiv:1403.6977, 2014. [http://arxiv.org/pdf/1403.6977v4.pdf \[PDF\]]

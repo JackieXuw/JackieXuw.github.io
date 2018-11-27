@@ -1,0 +1,369 @@
+# jemdoc: menu{MENU}{index.html}, showsource, analytics{UA-31107207-1}
+== Publications
+
+[http://scholar.google.com/citations?hl=en&user=tWoesqcAAAAJ Google Scholar Page] 
+
+
+- /"We can only see a short distance ahead, but we can see plenty there
+that needs to be done."/ -- [https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence Alan Turing, 1950.]\n
+- /"Simplicity is the final achievement."/ -- 
+[https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin Frederic 
+Chopin]\n
+- /"The main lesson of thirty-five years of AI research is that the hard 
+problems are easy and the easy problems are hard."/ -- 
+[https://en.wikipedia.org/wiki/The_Language_Instinct Steven Pinker]\n 
+- /"Coauthorship is a closer relationship than friendship."/ -- 
+[http://www.math.ucsd.edu/~fan/teach/gradpol.html Fan Chung.]\n
+
+~~~
+== 2018
+- [https://arxiv.org/pdf/1804.04878.pdf *Learning Contracting Vector Fields for Stable Imitation Learning*]\n
+Vikas Sindhwani, Stephen Tu and Mohi Khansari\n
+
+- [https://arxiv.org/abs/1804.02395 *Structured Evolution with Compact Architectures for Scalable Policy Optimization*]\n
+Krzysztof Choromanski, Mark Rowland, Vikas Sindhwani, Richard E. Turner, Adrian Weller\n
+/IEEE International Conference on Machine Learning/ (ICML), 2018\n
+ 
+- [~ *Learning-based Air Data System for Safe and Efficient Control of Fixed-wing Aerial Vehicles*]\n
+Krzysztof Choromanski, Vikas Sindhwani, Brandon Jones, Damien Jourdan, Maciej Chociej, Byron Boots\n
+/IEEE International Symposium On Safety, Security, And Rescue Robotics/ (SSRR), 2018\n
+
+- [optimizing_simulations.pdf *Optimizing Simulations with Noise-Tolerant Structured Exploration*]\n
+Krzysztof Choromanski, Erwin Coumans, Atil Iscen, Vikas Sindhwani, Jie Tan\n
+/IEEE International Conference on Robotics and Automation/ (ICRA), 2018\n
+
+- [https://research.google.com/pubs/pub46547.html *The Geometry of Random Features*]\n
+Krzysztof Choromanski, Mark Rowland, Tamas Sarlos, Vikas Sindhwani, Richard Turner, Adrian Weller\n
+/International Conference on Artificial Intelligence and Statistics/ (AISTATS'18)\n
+~~~
+
+~~~
+== 2017
+- [https://papers.nips.cc/paper/7230-on-blackbox-backpropagation-and-jacobian-sensing.pdf *On Blackbox Backpropagation and Jacobian 
+Sensing*]\n
+  Krzysztof Choromanski and Vikas Sindhwani\n
+  /Neural Information Processing Systems/ (NIPS), 2017\n
+
+- [tross.pdf *Sequential Operator Splitting for Constrained Nonlinear Optimal Control*]\n
+  Vikas Sindhwani, Rebecca Roelofs, Mrinal Kalakrishnan\n
+  /American Control Conference/ (ACC), 2017\n
+
+- [https://arxiv.org/pdf/1710.05387.pdf *Manifold Regularization for Kernelized LSTD*]\n
+  Xinyan Yan, Krzysztof Choromanski, Byron Boots, Vikas Sindhwani\n
+  /Conference on Robot Learning/ (CoRL), 2017\n
+
+- [https://arxiv.org/abs/1611.07369 *Geometry of 3D Environments and Sum of Squares Polynomials*]\n
+  Amir Ali Ahmadi, Georgina Hall, Ameesh Makadia, Vikas Sindhwani\n
+  /Robotics: Science and Systems/ (RSS), 2017 (to appear)\n
+
+- [https://arxiv.org/pdf/1608.00860v1.pdf *Hierarchically Compositional Kernels for Scalable Nonparametric Learning*]\n
+  J. Chen, H. Avron and V. Sindhwani\n
+  /Journal of Machine Learning Research/ (JMLR), 2017 (to appear)\n
+~~
+
+~~~
+== 2016 
+  
+- [http://jmlr.org/papers/v17/14-538.html *Quasi-Monte Carlo Feature Maps for Shift-Invariant Kernels*]\n
+  Haim Avron, Vikas Sindhwani, Jiyan Yang, Michael Mahoney\n
+  /Journal of Machine Learning Research/, 2016\n
+
+- [http://jmlr.org/proceedings/papers/v48/choromanski16.html *Recycling Randomness with Structure for Sublinear time Kernel Expansions*]\n
+  K. Choromanski  and V. Sindhwani\n
+  /International Conference on Machine Learning/ (ICML), to appear, 2016\n
+ 
+- [https://arxiv.org/abs/1604.02594 *Learning Compact Recurrent Neural Networks*]\n
+  Z. Lu, V. Sindhwani, T. Sainath\n
+  /IEEE International Conference on Acoustics, Speech, and Signal Processing/ (ICASSP), 2016
+~~
+
+~~~
+== 2015
+- [http://arxiv.org/pdf/1510.01722v1.pdf *Structured Transforms for Small-footprint Deep Learning*]\n
+  V. Sindhwani, T. Sainath, S. Kumar\n
+  /Neural Information Processing Systems/ (NIPS), to appear, 2015 {{<font color=red size=+0.5><b>}}(Spotlight!){{</b></font>}}\n
+  [st_supplementary.pdf supplementary]
+
+- [https://arxiv.org/abs/1409.0940 *High-performance Kernel Machines with Implicit Distributed Optimization and Randomization*]\n
+  H. Avron and V. Sindhwani\n
+  /Technometrics/ (Statistical Analysis of Big Data), to appear, 2015\n
+  [http://arxiv.org/pdf/1409.0940v3.pdf arxiv]
+	
+- [http://arxiv.org/abs/1312.7167 *Near-separable Non-negative Matrix Factorization with L1 and Bregman Loss Functions*]\n
+  A. Kumar, V. Sindhwani\n
+ /SIAM International Conference on Data Mining/  (SDM), 2015 (Extension  of  [sepnmf.icml13.pdf ICML 2013 paper]) \n
+   
+- [~     *libSkylark: A Framework for High-Performance Matrix Sketching for Statistical Computing*]\n
+  G. Kollias, Y. Ineichen, H. Avron, V. Sindhwani, K. Clarkson, C. Bekas, A. Curion\n
+  /Supercomputing/ (SC) 2015 (Poster)\n
+~~~
+
+~~~
+== 2014
+- [RandomLaplace.pdf *Random Laplace Feature Maps for Semigroup Kernels on Histograms*]\n
+  J. Yang, V. Sindhwani, Q. Fan, H. Avron, M. Mahoney\n
+  /IEEE Conference on Computer Vision and Pattern Recognition/ (CVPR), 2014\n
+ 
+- [kernelDNN.pdf *Kernel Methods match Deep Neural Networks on TIMIT*]\n
+  Po-Sen Huang, Haim Avron, Tara Sainath, Vikas Sindhwani, Bhuvana Ramabhadran\n
+  /IEEE International Conference on Acoustics, Speech, and Signal Processing/ (ICASSP), 2014 {{<font color=red size=+0.5><b>}}(Best Student Paper Award!){{</b></font>}}\n
+
+- [qmc.pdf *Quasi-Monte Carlo Feature Maps for Shift Invariant Kernels*]\n
+  J. Yang, V. Sindhwani, H. Avron, M. Mahoney\n
+  /International Conference in Machine Learning/ (ICML), 2014\n
+  [qmc_supplementary.pdf Supplementary Material]
+
+- [http://arxiv.org/pdf/1409.2620v1.pdf *Learning Machines Implemented on Non-Deterministic Hardware*]\n
+  S. Gupta, V. Sindhwani, K. Gopalakrishnan, arXiv Preprint, 2014\n
+~~~
+
+~~~
+== 2013
+- [nips2013.pdf *Sketching Structured Matrices for Faster Nonlinear Regression*]\n
+  H. Avron, V. Sindhwani, D. Woodruff\n
+  /Neural Information Processing Systems/ (NIPS), 2013
+
+- [uai2013.pdf *Scalable Matrix-valued Kernel Learning for High-dimensional Nonlinear Multivariate Regression and Granger  Causality*]\n
+  V.Sindhwani, H.Q. Minh and A.C. Lozano\n
+  /Uncertainty in Artificial Intelligence/ (UAI), 2013  {{<font color=red size=+0.5><b>}}(Best Paper Award!){{</b></font>}} {{<font color=red size=+0.5><b>}}(IBM Pat Goldberg Memorial Award, 2013!){{</b></font>}}\n
+  Arxiv version: [http://arxiv.org/abs/1210.4792v2 arXiv:1210.4792v2]\n
+  Talk [UAI2013talk.pdf pdf] 
+
+- [lowRank.pdf *Low-Rank Matrix Factorization for Deep Neural Network Training with High-dimensional Output Targets*]\n
+  T.N. Sainath, B. Kingsbury, V. Sindhwani, E. Arisoy, B. Ramabhadran\n
+  /IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, 2013\n
+
+- [sepnmf.icml13.pdf *Fast Conical Hull Algorithms for Near-separable Non-negative Matrix Factorization*]\n
+  A. Kumar, V. Sindhwani, P. Kambadur\n
+  /International Conference in Machine Learning/ (ICML), 2013\n
+  Arxiv version: [http://arxiv.org/abs/1210.1190 arXiv:1210.1190v1], October 2012 
+~~~
+
+~~~ 
+== 2012 
+ 
+- [DistributedSparseNMFkdd2012.pdf *Large-scale Distributed Non-negative Sparse Coding and Sparse Dictionary Learning* ]\n
+  V. Sindhwani and A. Ghoting\n
+  /ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD)/, 2012\n
+  
+- [nucnorm.pdf *Efficient and Practical Stochastic Subgradient Descent for Nuclear Norm Regularization*]\n
+  H. Avron, S. Kale, S. Kasiviswanathan, V. Sindhwani\n
+  /International Conference on Machine Learning (ICML)/, 2012
+
+- [wsdm227-saha.pdf *Learning Evolving and Emerging Topics in Social Media: A Dynamic NMF Approach with Temporal Regularization*]\n
+  A. Saha and V. Sindhwani\n
+  /Fifth ACM International Conference on Web Search and Data Mining (WSDM)/, 2012\n
+~~~  
+
+~~~ 
+== 2011              
+- [mklgomp.pdf *Non-parametric Group Orthogonal Matching Pursuit for Sparse Learning with Multiple Kernels*]\n
+  V. Sindhwani and A.C. Lozano\n
+  /Neural Information Processing Systems (NIPS)/, 2011\n
+ 
+- [VectorValuedMR.pdf *Vector-Valued Manifold Regularization*]\n
+  H.Q. Minh and V. Sindhwani\n
+  /International Conference on Machine Learning (ICML)/, 2011\n
+ 
+- [systemML.pdf *SystemML: Declarative Machine Learning on MapReduce*]\n
+  A. Ghoting, R. Krishnamurthy, E. Pednault, B. Reinwald, V. Sindhwani, S. Tatikonda, Y. Tian, S. Vaithyanathan\n
+  /IEEE International Conference on Data Engineering (ICDE)/, 2011
+ 
+- [novelClustering-cikm2011.pdf *Emerging Topic Detection Using Dictionary Learning*]\n
+  S. Kasiviswanathan, P. Melville, A. Banerjee, and V. Sindhwani\n
+  /ACM Conference on Information and Knowledge Management (CIKM)/, 2011
+ 
+- [concept-labeling-ijcai11.pdf *Concept Labeling: Building Text Classifiers with Minimal Supervision*]\n
+   V. Chenthamarakshan, P. Melville, V. Sindhwani and R. D. Lawrence\n
+  /International Joint Conference on Artificial Intelligence (IJCAI)/, 2011 
+~~~
+
+~~~
+== 2010
+
+- [NIPSCausalInfluence.pdf *Block Variable Selection in Multivariate Regression and High-dimensional Causal Inference*]\n
+  A.C. Lozano and V. Sindhwani\n
+  /Neural Information Processing Systems (NIPS)/, 2010
+ 
+ 
+- [nmfcv.pdf *Rank Selection in Low-Rank Matrix Approximations*]\n
+   B. Kanagal, V. Sindhwani\n
+   /Low-Rank Methods for Large-scale Machine Learning (NIPS Workshop)/, 2010
+
+- [OneClassMatrixCompletion.pdf *One-class Matrix Completion with Low-Density Factorizations*]\n
+  V. Sindhwani, S.S. Bucak, J. Hu, A. Mojsilovic\n
+  /IEEE International Conference on Data Mining (ICDM)/, 2010  
+  
+- [http://www.siam.org/proceedings/datamining/2010/dm10_026_lit.pdf *Bridging Domains with Words: Opinion Analysis with Matrix Trifactorizations*]\n
+  T. Li, V. Sindhwani, C.Ding, Y.Zhang\n
+  /SIAM International Conference on Data Mining (SDM)/, 2010 
+ 
+- [recommender.pdf *Recommender Systems*]\n
+  P. Melville, V. Sindhwani\n
+  /Encyclopedia of Machine Learning/, Springer, 2010.
+ 
+- [sma-orms2010.pdf *Social Media Analytics*]\n
+  R. Lawrence, P. Melville, C. Perlich, V.Sindhwani, E.Meliksetian, P.Hsueh, Y. Liu\n
+  /Operations Research - Management Science Today ([http://www.orms-today.org/ ORMS-Today])/, Feburary 2010 
+ 
+~~~
+
+~~~
+== 2009
+  
+- [GRADS.pdf *Uncertainty Sampling and Transductive Experimental Design for Active Dual Supervision*]\n
+  V. Sindhwani, P. Melville, R. Lawrence\n
+  /International Conference on Machine Learning (ICML)/, 2009
+ 
+ 
+- [pmlsparse.pdf *Sparse Least Squares Methods in the Parallel Machine Learning (PML) Framework*]\n
+   R. Natarajan, V.Sindhwani, S. Tatikonda\n
+  /Large Scale Data Mining: Theory and Applications Workshop IEEE International Conference on Data Mining (ICDM)/, 2009
+ 
+- [ieeespm.pdf *A Kernel for Semi-supervised Learning with Multi-view Point Cloud Regularization*]\n
+  D. Rosenberg, V. Sindhwani, P. Bartlett, P. Niyogi\n
+  /IEEE Signal Processing Magazine/, 2009   
+ 
+- [acl-nnmf.pdf *A Non-negative Matrix Tri-factorization Approach to Sentiment Classification with Lexical Prior Knowledge*]\n
+  T. Li, Y. Zhang and V. Sindhwani\n
+  /Association for Computational Linguistics (ACL)/, 2009
+  
+- [KDDCup-jmlr09.pdf *Winning the KDD Cup Orange Challenge with Ensemble Selection*]\n
+  A. Niculescu-Mizil, C. Perlich, G. Swirszcz, V. Sindhwani, Y. Liu, P. Melville, D. Wang, J. Xiao, J. Hu, M. Singh, W. X. Shang, Y.F. Zhu\n
+  /Journal of Machine Learning Research (JMLR proceeding series)/, 2009 {{<font color=red size=+0.5><b>}}(KDD Cup Winner!){{</b></font>}}\n
+     
+- [active-dual-supervision-naacl09.pdf *Active Dual Supervision: Reducing the Cost of Annotating Examples and Features*]\n
+   P. Melville and V. Sindhwani\n
+   /NAACL HLT 2009 Workshop on Active Learning for NLP/, 2009
+  
+- [http://www.aclweb.org/anthology/W/W09/W09-1904.pdf *Data Quality from Crowdsourcing: A Study of Annotation Selection Criteria*]\n
+   P. Hsueh, P. Melville, V. Sindhwani\n 
+   /NAACL HLT 2009 Workshop on Active Learning for NLP/, 2009
+ 
+- [http://researchweb.watson.ibm.com/journal/abstracts/rd/536/chenthamarakshan.html *Leveraging Social Networks for Corporate Staffing and Expert Recommendation*]\n
+   V. Chenthamarakshan, K. Dey, J. Hu, A. Mojsilovic, W. Riddle, V. Sindhwani\n
+  /IBM Journal of Research and Development/, 2009
+~~~
+
+~~~ 
+== 2008 
+- [nips2008.pdf *Regularized Co-Clustering With Dual Supervision*]\n
+  V. Sindhwani, J. Hu, A. Mojsilovic\n
+  /Neural Information Processing Systems (NIPS)/, 2008
+
+- [s3vm.pdf *Optimization Techniques for Semi-supervised Support Vector Machines*]\n
+  O. Chapelle, V. Sindhwani, S. S. Keerthi\n
+  /Journal of Machine Learning Research/ 9(Feb):203--233, 2008
+
+- [sentiment-semisup-icdm08.pdf *Document-Word Co-Regularization for Semi-supervised Sentiment Analysis*]\n
+  V. Sindhwani, P. Melville\n
+  /IEEE International Conference on Data Mining (ICDM)/, 2008\n
+  [datasets/sentiment/ datasets]  
+
+- [coreg.pdf *An RKHS for Multi-view Learning and Manifold Co-Regularization*]\n
+  V. Sindhwani and D. Rosenberg \n
+  /International Conference on Machine Learning (ICML)/, 2008\n
+  [http://videolectures.net/icml08_rosenberg_rkhs video]
+~~~ 
+ 
+~~~
+== 2007
+- [thesis.pdf *On Semi-supervised Kernel Methods*]\n
+  V. Sindhwani\n
+  Ph.D. Thesis\n
+  /Department of Computer Science, University of Chicago/, 2007
+
+- [newton_lskm.pdf *Newton Methods for Fast Solution of Semi-supervised Linear SVMs*]\n
+  V. Sindhwani, S.S. Keerthi\n
+  /Large Scale Kernel Machines/ MIT Press (Book Chapter), 2007
+  
+- [ssgp.pdf *Semi-supervised Gaussian Processes*]\n
+  V. Sindhwani, W. Chu, S. S. Keerthi\n
+  /International Joint Conference on Artificial Intelligence/ (IJCAI), 2007
+~~~
+
+~~~
+== 2006
+- [hyp.pdf *An Efficient Method for Gradient-Based Adaptation of Hyperparameters in SVM Models*]\n
+  S. S. Keerthi, V. Sindhwani, O. Chapelle\n
+  /Neural Information Processing Systems (NIPS)/, 2006
+ 
+- [rgp.pdf *Relational Learning with Gaussian Processes*]\n
+   W. Chu, V. Sindhwani, Z. Ghahramani, S. S. Keerthi\n
+  /Neural Information Processing Systems (NIPS)/, 2006
+ 
+- [bb.pdf *Branch and Bound for Semi-supervised Support Vector Machines*]\n
+  O. Chapelle, V. Sindhwani, S. S. Keerthi\n
+ /Neural Information Processing Systems (NIPS)/, 2006\n
+ [code_branch_s3vm.zip Matlab Code]
+ 
+- [da.pdf *Deterministic Annealing for Semi-supervised Kernel Machines*]\n
+  V. Sindhwani, S.S. Keerthi, O. Chapelle\n
+  /International Conference on Machine Learning/ (ICML), 2006\n
+  [da_talk.pdf talk]
+ 
+- [sk_sigir.pdf *Large Scale Semi-supervised Linear SVMs*]\n
+  V. Sindhwani, S.S. Keerthi\n
+  /29th Annual International ACM SIGIR/, 2006\n
+  [sigir06talk.pdf talk]  [semisup_techreport06.pdf techreport]   
+
+- [MR.pdf *Manifold Regularization: A Geometric Framework for Learning from Labeled and Unlabeled Examples*]\n
+  M. Belkin, P. Niyogi, V. Sindhwani\n
+ /Journal of Machine Learning Research/ (JMLR), 2006\n
+ [TTItalk.pdf talk]
+  
+- [GeometricBasisSSL.pdf *The Geometric Basis of Semi-supervised Learning*]\n
+  V. Sindhwani, M. Belkin, P. Niyogi\n
+  [http://www.kyb.tuebingen.mpg.de/ssl-book/ Semi-supervised Learning MIT Press], 2006
+    
+- [svmlin.html *SVMlin: Fast Linear SVM Solvers for Supervised and Semi-supervised Learning*]\n
+  V. Sindhwani, P. Niyogi, M. Belkin\n
+  /Workshop on Machine Learning Open Source Software, Neural Information Processing Systems/ (NIPS), 2006
+~~~
+ 
+~~~
+== 2005 
+ 
+- [SNBFinal.pdf *Beyond the Point Cloud: from Transductive to Semi-supervised Learning*]\n
+  V. Sindhwani, P. Niyogi, M. Belkin\n
+  /International Conference on Machine Learning/ (ICML), 2005\n
+  [manifoldregularization.html code] [IcmlTalk.pdf talk] 
+  
+- [multiview.pdf *A Co-regularization Approach to Semi-supervised Learning with Multiple Views*]\n
+  V. Sindhwani, P. Niyogi, M. Belkin\n
+  /Workshop on Learning with Multiple Views, International Conference on Machine Learning/ (ICML), 2005 
+ 
+- [aistats.pdf *On Manifold Regularization*]\n
+  M. Belkin, P. Niyogi, V. Sindhwani\n
+ /Artificial Intelligence and Statistics/ (AISTATS), 2005
+
+ 
+- [linMR.pdf *Linear Manifold Regularization for Large Scale Semi-supervised Learning*]\n
+  V. Sindhwani, P. Niyogi, M. Belkin\n
+  /Workshop on Learning with Partially Classified Training Data, International Conference on Machine Learning/ (ICML), 2005
+~~~
+
+~~~
+== 2004 
+- [~ *Kernel Machines for Semi-supervised Learning*]\n
+  V. Sindhwani\n
+  Masters Thesis, 2004\n
+  /Department of Computer Science, University of Chicago/\n 
+ 
+- [moi.pdf *Feature Selection in MLPs and SVMs Based On Maximum Output Information*]\n
+  V. Sindhwani, S. Rakshit, D. Deodhare, D. Erdogmus, J.Principe, P.Niyogi\n
+  /IEEE Trans. on Neural Networks/,V.15,N.4, 2004
+~~~
+
+~~~
+== Earlier
+
+- [~ *Information Theoretic Performance Evaluation and Feature Selection in Machine Learning*]\n
+  V. Sindhwani\n
+  Bachelors Thesis, 2001\n
+  /Engineering Physics, Indian Institute of Technology/, Bombay 
+ 
+- [moisvm.pdf *Information Theoretic Feature Crediting in Multiclass Support Vector Machines*]\n
+  V. Sindhwani, P. Bhattacharya, S. Rakshit\n
+  /First Siam International Conference on Data Mining/ (SDM), 2001
+~~~

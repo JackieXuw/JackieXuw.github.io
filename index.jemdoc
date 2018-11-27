@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{index.html}, notime, anlytics{UA-49454703-1}
+= Lei Deng - Homepage
+
+~~~
+{}{img_left}{photo.jpg}{}{229}{246}{photo.jpg}
+Assistant Professor, PhD \n
+School of Electrical Engineering & Intelligentization \n
+Dongguan University of Technology \n
+[https://scholar.google.com.hk/citations?user=Bx2v5H8AAAAJ&hl=en \[Google Scholar\]]
+[https://www.linkedin.com/in/lei-deng-0537564b?trk=nav_responsive_tab_profile \[Linkedin\]]
+[https://github.com/leideng \[Github\]]
+~~~
+
+
+
+== Biography
+I'm an assistant professor in School of Electrical Engineering & Intelligentization, Dongguan University of Technology.
+I received my BEng degree from Department of Electronic Engineering, Shanghai Jiao Tong University in July 2012, and 
+my PhD degree from Department of Information Engineering, The Chinese University of Hong Kong in May 2017 supervised by [https://staff.ie.cuhk.edu.hk/~mhchen/ Prof. Minghua Chen].
+From June 2017 to September 2017, I was a Postdoctoral Fellow in Department of Information Engineering, The Chinese University of Hong Kong, working with [https://staff.ie.cuhk.edu.hk/~mhchen/ Prof. Minghua Chen].
+From May 2015 to October 2015, I was a visiting scholar at School of Electrical and Computer Engineering, Purdue University, working with [https://engineering.purdue.edu/~chihw/ Prof. Chih-Chun Wang]. I'm a member of 
+IEEE and ACM.
+
+== Contact
+- Office: Room 9A413, No. 1, Daxue Road, Songshan Lake, Dongguan 523808, Guangdong Province, China.
+- Email: [denglei@dgut.edu.cn], [ldeng.sjtu@gmail.com]
+- Homepage: [https://leideng.github.io/]
+
+== Research Interests
+- Real-Time (Delay-Constrained) Communications
+- Energy-Efficient Timely Transportation
+- Spectral-Energy Efficiency in Wireless Networks
+
+
+
+
+	
+	
+~~~
+{News}
+- 09\/2018. Paper "Delay-Constrained Input-Queued Switch" accepted to [https://www.comsoc.org/jsac/cfp/emerging-technologies-tactile-internet-and-backhaulfronthaul-networks IEEE JSAC Special Issue on Emerging Technologies in Tactile Internet and Backhaul/Fronthaul Networks].
+- 07\/2018. Paper "On Stability Condition of Wireless Networked Control Systems under Joint Design of Control Policy and Network Scheduling Policy" accepted to [https://cdc2018.ieeecss.org/ IEEE CDC 2018].
+- 05\/2018. Paper "On the Asymptotic Performance of Delay-Constrained Slotted ALOHA" accepted to [http://icccn.org/icccn18/ IEEE ICCCN 2018] as an invited paper.
+- 04\/2018. Paper "An Optimal Algorithm for Online Non-Convex Learning" accepted to [https://www.sigmetrics.org/sigmetrics2018/ ACM SIGMETRICS 2018] as a full paper.
+- 04\/2018. Give an invited talk in College of System Engineering, National University of Defense Technology.
+- 04\/2018. Give an invited talk in School of Data and Computer Science, Sun Yat-Sen University.
+- 04\/2018. Paper "Delay-Constrained Input-Queued Switch" accepted to [https://www.sigmobile.org/mobihoc/2018/ ACM MobiHoc 2018] as a poster paper.
+- 03\/2018. Paper "Dynamic Spectrum Allocation for Heterogeneous Cognitive Radio Networks with Multiple Channels" accepted to IEEE Systems Journal.
+- 02\/2018. Paper "Joint Bidding and Geographical Load Balancing for Datacenters: Is Uncertainty a Blessing or a Curse?" accepted to IEEE/ACM Transactions on Networking.
+- 11\/2017. Paper "Optimal Demand-Aware Ride-Sharing Routing" accepted to [http://infocom2018.ieee-infocom.org/ IEEE INFOCOM 2018].
+- 11\/2017. Paper "A Tale of Two Metrics in Network Delay Optimization" accepted to [http://infocom2018.ieee-infocom.org/ IEEE INFOCOM 2018].
+- 10\/2017. Give an invited talk in Department of Computer Science and Technology, Xi'an Jiaotong University.
+- 10\/2017. Give an invited talk in School of Electronic Engineering, Xidian University.
+- 09\/2017. Give an invited talk (together with my supervisor [https://staff.ie.cuhk.edu.hk/~mhchen/ Prof. Minghua Chen]) in the \
+[http://www.cintec.cuhk.edu.hk/seminars/?p=6426&preview=true workshop of Fog Computing and Communications: Technology and Economics] in CUHK.
+- 08\/2017. Paper "Energy-Efficient Timely Transportation of Long-Haul Heavy-Duty Trucks" accepted to IEEE Transactions on Intelligent Transportation Systems. 
+- 08\/2017. Paper "Timely Wireless Flows with General Traffic Patterns: Capacity Region and Scheduling Algorithms" accepted to IEEE/ACM Transactions on Networking.
+~~~
+

@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{index.html}, notime, anlytics{UA-49454703-1}
+= Lei Deng - Publications
+
+PhD Candidate \n
+[http://www.ie.cuhk.edu.hk/ Department of Information Engineering] \n
+[http://www.cuhk.edu.hk/ The Chinese University of Hong Kong] \n
+
+
+== Journal
+. *Lei Deng*, Yun Rui, Peng Cheng, Jun Zhang, Q. T. Zhang, and Mingqi Li, 
+"A Unified Energy Efficiency and Spectral Efficiency Tradeoff Metric in Wireless Networks,"
+IEEE Communications Letters , vol. 17, no. 1, pp. 55-58, Jan. 2013. [paper/est_cl13.pdf \[PDF\]]
+. Yun Rui, Q.T. Zhang, *Lei Deng*, Peng Cheng, and Mingqi Li, 
+"Mode Selection and Power Optimization for Energy Efficiency in Uplink Virtual MIMO Systems," 
+IEEE Journal on Selected Areas in Communications (JSAC), vol. 31, no. 5, pp. 926-936, May 2013. [paper/ee_vmimo_jsac13.pdf \[PDF\]]
+. Yun Rui, *Lei Deng*, Qian Wang, Jing Li, Guoming Qian, Mingqi Li, and Yingguan Wang, “Robust Energy-efficient Power Loading for MIMO System under Imperfect CSI,” accepted by International Journal on Sensor Networks (IJSNet), 2014.
+== Conference
+. *Lei Deng*, Wenjie Zhang, and Yun Rui,
+"Utility Maximization for Uplink MU-MIMO: Combining Spectral-Energy Efficiency and Fairness,"
+submitted to Proc. IEEE Global Communications Conference (GLOBECOM), 2014. \[ArXiv Technical Report, [http://arxiv.org/abs/1403.6977v2 arXiv:1403.6977v2.\]]
+. Yun Rui, *Lei Deng*, Peng Cheng, Q. T. Zhang, and Mingqi Li, 
+"Energy-Efficient Multi-Mode Transmission in Uplink Virtual MIMO Systems,"
+in Proc. IEEE International Conference on Communications (ICC), Jun. 2013, pp. 1555-1559. [paper/ee_vmimo_icc13.pdf \[PDF\]]
+. Peng Cheng, *Lei Deng*, Hui Yu, Youyun Xu, and Hailong Wang, 
+"Resource Allocation for Cognitive Networks with D2D Communication: An Evolutionary Approach,"
+in Proc. IEEE Wireless Communications and Networking Conference (WCNC), Apr.  2012, pp. 2671-2676. [paper/d2d_wcnc12.pdf \[PDF\]]
+. Yun Rui, *Lei Deng*, Mingqi Li, Jing Li, and Xiangbin Yu, "Robust EnergyEfficient Power Loading for MIMO System under Imperfect CSI," in Proc. Wireless
+Algorithms, Systems, and Applications (WASA) , Aug. 2012, pp. 315-323. [paper/robust_ee_wasa12.pdf \[PDF\]]
+. Dongdong Wei, *Lei Deng*, Yun Rui, Mingqi Li, and Fang Wang, 
+"Cooperative Transmission with Broadcasting and Communication," 
+in Proc. IEEE Intelligent Networking and Collaborative Systems (INCoS), Sept. 2012, pp. 541-545. [paper/cbc_incos12.pdf \[PDF\]]
+. Yun Rui, Q.T. Zhang, Mingqi Li, *Lei Deng*, and Peng Cheng, 
+"Energy Efficiency Optimization in Uplink Virtual MIMO Systems," 
+in Proc. IEEE International Conference on Communications (ICC), Jun. 2012, pp. 4818-4823. [paper/ee_vmimo_icc12.pdf \[PDF\]]
+. Xiaowei Ding, Yi Xu, *Lei Deng*, and Xiaokang Yang, 
+"Colorization Using Quaternion Algebra with Automatic Scribble Generation," 
+in Proc. Advances in Multimedia Modeling (MMM), Jan. 2012, pp. 103-114. [paper/colorization_mmm12.pdf \[PDF\]]
+
+== Patent 
+. *Lei Deng*, Ben Ding, Peng Cheng, Hui Yu, and Yuyi Li, 
+"An Improved AODV Protocol for Vehicular Ad Hoc Networks," 
+People's Republic of China Patent, Application No. 201210181415.4.
+. *Lei Deng*, Peng Cheng, Hui Yu, Yuyi Li, and Kai Ying, 
+"Optimal Relay Selection in Infrastructure-to-Vehicle Communications," 
+People's Republic of China Patent, Application No. 201210062162.9.
+
+#== Technical Report
+#. *Lei Deng*, Wenjie Zhang and Yun Rui,
+#"Utility Maximization for Uplink MU-MIMO: Combining Spectral-Energy Efficiency and Fairness," arXiv Technical Report. [paper/TR_utility_MUMIMO.pdf \[PDF\]]

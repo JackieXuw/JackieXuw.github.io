@@ -1,0 +1,69 @@
+# jemdoc: menu{MENU}{index.html}, notime, anlytics{UA-49454703-1}
+= Lei Deng - Full Publications
+
+== Journal
+. *Lei Deng*, Yun Rui, Peng Cheng, Jun Zhang, Q. T. Zhang, and Mingqi Li, 
+"A Unified Energy Efficiency and Spectral Efficiency Tradeoff Metric in Wireless Networks,"
+IEEE Communications Letters , vol. 17, no. 1, pp. 55-58, Jan. 2013. [paper/est_cl13.pdf \[PDF\]]
+. Yun Rui, Q.T. Zhang, *Lei Deng*, Peng Cheng, and Mingqi Li, 
+"Mode Selection and Power Optimization for Energy Efficiency in Uplink Virtual MIMO Systems," 
+IEEE Journal on Selected Areas in Communications (JSAC), vol. 31, no. 5, pp. 926-936, May 2013. [paper/ee_vmimo_jsac13.pdf \[PDF\]]
+. Yun Rui, *Lei Deng*, Qian Wang, Jing Li, Guoming Qian, Mingqi Li, and Yingguan Wang, "Robust Energy-efficient Power Loading for MIMO System under Imperfect CSI," International Journal on Sensor Networks (IJSNet), vol. 18, no. 3/4, pp. 140-147, 2015.
+
+== Conference
+. *Lei Deng*, Chih-Chun Wang, Minghua Chen, and Shizhen Zhao,
+"Timely Wireless Flows with Arbitrary Traffic Patterns: Capacity Region and Scheduling Algorithms,"
+in Proc. IEEE International Conference on Computer Communications (INFOCOM), Apr. 2016.
+(Acceptance Ratio: 300/1644=18.2%)
+. Wenjie Zhang, *Lei Deng*, and Chai Kiat Yeo,
+"Dynamic Spectrum Allocation for Heterogeneous Cognitive Radio Network,"
+in Proc. IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2016. 
+[paper/Dynamic.Spectrum.Allocation.WCNC.16.pdf \[PDF\]]
+. Peijian Wang, Ying Zhang, *Lei Deng*, Minghua Chen, and Xue Liu,
+"Second Chance Works Out Better: Saving More for Data Center Operator in Open Energy Market,"
+in Proc. Annual Conference on Information Science and Systems (CISS), Mar. 2016.
+[paper/Second.Chance.CISS.16.pdf \[PDF\]]
+(Invited Paper)
+. *Lei Deng*, Ying Zhang, Minghua Chen, Zongpeng Li, Jack Y. B. Lee, Ying Jun (Angela) Zhang, and Lingyang Song,
+"Device-to-Device Load Balancing for Cellular Networks," in Proc. IEEE International Conference on Mobile Ad-hoc and Sensor Systems (MASS), Oct. 2015. 
+[paper/D2D.LB.MASS.15.pdf \[PDF\]] [paper/D2D.LB.MASS.15.TR.pdf \[Technical Report\]] [paper/D2D.LB.MASS.15.slides.pptx \[Slides\]]
+(Acceptance Ratio: 50/188=26.5%)
+. Wenjie Zhang, Yiqun Yang, Chai Kiat Yeo, and *Lei Deng*,
+"Cluster-Based Cooperative Spectrum Sensing Assignment Strategy in Cognitive Radio Networks,"
+in Proc. IEEE Vehicular Technology Conference (VTC Fall), Sep. 2014. 
+[paper/Cluster_CSS_vtcfall14.pdf \[PDF\]]
+. Yun Rui, *Lei Deng*, Peng Cheng, Q. T. Zhang, and Mingqi Li, 
+"Energy-Efficient Multi-Mode Transmission in Uplink Virtual MIMO Systems,"
+in Proc. IEEE International Conference on Communications (ICC), Jun. 2013. [paper/ee_vmimo_icc13.pdf \[PDF\]]
+. Peng Cheng, *Lei Deng*, Hui Yu, Youyun Xu, and Hailong Wang, 
+"Resource Allocation for Cognitive Networks with D2D Communication: An Evolutionary Approach,"
+in Proc. IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2012.
+[paper/d2d_wcnc12.pdf \[PDF\]]
+. Yun Rui, *Lei Deng*, Mingqi Li, Jing Li, and Xiangbin Yu, "Robust EnergyEfficient Power Loading for MIMO System under Imperfect CSI," in Proc. Wireless
+Algorithms, Systems, and Applications (WASA) , Aug. 2012. [paper/robust_ee_wasa12.pdf \[PDF\]]
+. Dongdong Wei, *Lei Deng*, Yun Rui, Mingqi Li, and Fang Wang, 
+"Cooperative Transmission with Broadcasting and Communication," 
+in Proc. IEEE Intelligent Networking and Collaborative Systems (INCoS), Sept. 2012, pp. 541-545. [paper/cbc_incos12.pdf \[PDF\]]
+. Yun Rui, Q.T. Zhang, Mingqi Li, *Lei Deng*, and Peng Cheng, 
+"Energy Efficiency Optimization in Uplink Virtual MIMO Systems," 
+in Proc. IEEE International Conference on Communications (ICC), Jun. 2012, pp. 4818-4823. [paper/ee_vmimo_icc12.pdf \[PDF\]]
+. Xiaowei Ding, Yi Xu, *Lei Deng*, and Xiaokang Yang, 
+"Colorization Using Quaternion Algebra with Automatic Scribble Generation," 
+in Proc. Advances in Multimedia Modeling (MMM), Jan. 2012, pp. 103-114. [paper/colorization_mmm12.pdf \[PDF\]]
+
+== Patent 
+. *Lei Deng*, Ben Ding, Peng Cheng, Hui Yu, and Yuyi Li, 
+"An Improved AODV Protocol for Vehicular Ad Hoc Networks," 
+People's Republic of China Patent, 
+#Application No. 201210181415.4,
+Publication No. CN102769888B, issued on Mar. 11, 2015.
+. *Lei Deng*, Peng Cheng, Hui Yu, Yuyi Li, and Kai Ying, 
+"Optimal Relay Selection in Infrastructure-to-Vehicle Communications," 
+People's Republic of China Patent, 
+#Application No. 201210062162.9,
+Publication No. CN102625237B, issued on Oct. 15, 2014.
+
+# == Technical Report & Unpublished Manuscript
+#== Unpublished Manuscript
+#. *Lei Deng*, Wenjie Zhang and Yun Rui,
+#"Utility Maximization for Uplink MU-MIMO: Combining Spectral-Energy Efficiency and Fairness,"  arXiv:1403.6977, 2014. [http://arxiv.org/pdf/1403.6977v4.pdf \[PDF\]]
