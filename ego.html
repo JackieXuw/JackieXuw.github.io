@@ -33,17 +33,35 @@
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>Bayesian Optimization for Automatic Controller Tuning</h1>
+<h1>Bayesian Optimization for Performance Auto-Tuning</h1>
 </div>
 <ol>
-In many advanced control systems, the closed-loop control performance highly depends on some hand-tuned parameters. The mapping from these parameters to the performance is typically a black-box/grey-box function. Meanwhile, there are also usually black-box closed-loop constraints that need to be taken care of. In this project, we aim to develop sample-efficient black-box optimization method to tune these parameters, with formal guarantees on running performance and violations. We also release solver to facilitate the real-world applications of our methods.    
+In many engineering systems, the performance highly depends on some hand-tuned parameters. The mapping from these parameters to the performance is typically a black-box/grey-box function. Meanwhile, there are also usually black-box closed-loop constraints that need to be taken care of. In this project, we aim to develop sample-efficient black-box optimization method to tune these parameters, with formal guarantees on running performance and violations. We also release solver to facilitate the real-world applications of our methods.    
 </ol>
 
 
-<h2>Publications</h2>
+<h2>Publications: Theory</h2>
 </div>
 <ol>
- 
+ <li><p>
+&ldquo;Lower Bounds on the Worst-Case Complexity of Efficient Global Optimization&rdquo; <a href="https://arxiv.org/pdf/2209.09655.pdf">[arXiv]</a> <br/>
+<b>Wenjie Xu</b>, Yuning Jiang, Emilio T. Maddalena, Colin N. Jones.
+</p>
+</li>
+</ol>
+
+<h2>Publications: Algorithms</h2>
+</div>
+<ol>
+ <li><p>
+
+     <li><p>
+&ldquo;Principled Preferential Bayesian Optimization&rdquo; <a href="https://arxiv.org/pdf/2402.05367">[arXiv]</a> <br/>
+<b>Wenjie Xu</b>, Wenbin Wang, Yuning Jiang, Bratislav Svetozarevic, and Colin N. Jones, accepted to the Forty-first International Conference on Machine Learning (<b>ICML</b> 2024, <mark>Oral, top 1.5%</mark>).
+</p>
+</li>
+
+
    <li><p>
 &ldquo;Primal-Dual Contextual Bayesian Optimization for Control System Online Optimization with Time-Average Constraints&rdquo; <a href="paper/CDC23_final.pdf">[PDF]</a> <a href="https://arxiv.org/pdf/2304.06104.pdf">[Technical Report]</a> <br/>
 <b>Wenjie Xu</b>, Yuning Jiang, Bratislav Svetozarevic, Colin N. Jones, accepted to the 62nd IEEE Conference on Decision and Control (<b>CDC</b> 2023).
@@ -57,8 +75,28 @@ In many advanced control systems, the closed-loop control performance highly dep
 </p>
 </li>
 
+</ol>
 
-   <li><p>
+   
+<h2>Publications: Applications</h2>
+</div>
+<ol>
+
+ <li><p>
+&ldquo;Violation-Aware Contextual Bayesian Optimization for Controller Performance Optimization with Unmodeled Constraints&rdquo; <a href="https://arxiv.org/abs/2301.12099">[arXiv]</a> <br/>
+<b>Wenjie Xu</b>, Colin N Jones, Bratislav Svetozarevic, Christopher R. Laughman, and Ankush Chakrabarty, accepted to Journal of Process Control (<b>JPC</b>), 2024. 
+        </p>
+</li>
+
+ <li><p>
+&ldquo; Data-driven adaptive building thermal controller tuning with constraints: A primal-dual contextual Bayesian optimization approach&rdquo; <a href="https://arxiv.org/pdf/2310.00758.pdf">[arXiv]</a> <br/>
+<b>Wenjie Xu</b>, Bratislav Svetozarevic, Loris Di Natale, Philipp Heer, Colin N Jones,
+accepted to Applied Energy (<b>APEN</b>), 2023. 
+</p>
+</li>
+
+
+    <li><p>
 &ldquo;<b>CONFIG</b>: Constrained Efficient Global Optimization for Closed-Loop Control System Optimization with Unmodeled Constraints&rdquo; <a href="paper/CONFIG_IFAC23.pdf">[PDF]</a> <a href="https://github.com/JackieXuw/CONFIG">[Code]</a> <br/>
 <b>Wenjie Xu</b>, Yuning Jiang, Bratislav Svetozarevic, Philipp Heer, and Colin N. Jones, accepted to IFAC World Congress 2023. (<b>IFAC</b> 2023)
 </p>
@@ -77,7 +115,19 @@ accepted to the 2022 American Control Conference (<b>ACC</b> 2022). <p style="co
 
 <h2>Preprints</h2>
 <ol>
-  
+   <li><p>
+&ldquo; Multi-Agent Bayesian Optimization with Coupled Black-Box and Affine Constraints&rdquo; <a href="https://arxiv.org/pdf/2310.00962.pdf">[arXiv]</a> <br/>
+<b>Wenjie Xu</b>, Yuning Jiang, Bratislav Svetozarevic, Colin N. Jones. 
+</p>
+</li>
+ 
+    <li><p>
+&ldquo; Bayesian Optimization of Expensive Nested Grey-Box Functions &rdquo; <a href="https://arxiv.org/pdf/2306.05150.pdf">[arXiv]</a> <br/>
+<b>Wenjie Xu</b>, Yuning Jiang, Bratislav Svetozarevic, Colin N. Jones.
+</p>
+</li>
+ 
+
     <li><p>
 &ldquo;Multi-Agent Bayesian Optimization with Coupled Black-Box and Affine Constraints&rdquo; <a href="https://arxiv.org/pdf/2310.00962.pdf">[arXiv]</a> <br/>
 <b>Wenjie Xu</b>, Yuning Jiang, Bratislav Svetozarevic, Colin N. Jones.
@@ -104,13 +154,7 @@ constraints: A primal-dual contextual Bayesian optimization approach&rdquo; <a h
         </p>
 </li>
 
- <li><p>
-&ldquo;Lower Bounds on the Worst-Case Complexity of Efficient Global Optimization&rdquo; <a href="https://arxiv.org/pdf/2209.09655.pdf">[arXiv]</a> <br/>
-<b>Wenjie Xu</b>, Yuning Jiang, Emilio T. Maddalena, Colin N. Jones.
-</p>
-</li>
-
-</ol>
+ </ol>
 
 <h2>Software</h2>
 </div>
